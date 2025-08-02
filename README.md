@@ -11,7 +11,7 @@
 ### 🧠 About me
 
 - 🇧🇷 Based in Piracicaba, Brazil
-- 👨‍⚕️ Pediatrician & Neonatologist with over 5 years of ICU experience
+- 👨‍⚕️ Pediatrician & Neonatologist with over 12 years of Pediatrian/ICU experience
 - 💡 Building smart tools to help doctors and patients using AI
 - 🛠️ Currently focused on ML agents for neonatal triage, diagnostics & decision support
 
