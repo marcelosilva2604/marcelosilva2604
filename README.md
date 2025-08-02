@@ -86,7 +86,6 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
 13. [Neofax App](https://github.com/marcelosilva2604/aplicativo-neofax)
 14. [Patient Manager](https://github.com/marcelosilva2604/sistema_pacientes)
 15. [Neonatal Care Protocols](https://github.com/marcelosilva2604/Neonatal-Care)
-16. [SQL Learning Base](https://github.com/marcelosilva2604/primeiroreposqllocal)
 
 ---
 
