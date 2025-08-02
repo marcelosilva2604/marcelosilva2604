@@ -19,7 +19,7 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
    - Antibiotic dosing assistant to prevent organ failure or underdosing
    - Built with React + TypeScript, live on GitHub Pages
 
-3. [Neonatal Screenings Automation](https://github.com/marcelosilva2604/triagens-neonatais)
+3. [Neonatal Screenings Automation](https://marcelosilva2604.github.io/triagens-neonatais/)
    - Prevents missed genetic/metabolic screening based on GA/weight
    - Mission-critical logic for timing-sensitive triage
 
