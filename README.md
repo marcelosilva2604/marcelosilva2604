@@ -33,7 +33,6 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
    - 8,236 Brazilian children analyzed for nutrition risk
    - Used k-means, DBSCAN, hierarchical clustering
    - 3 JCR-level papers in pipeline (Public Health Nutrition, CMB)
-   - Approved by Ethics Committee (CNS Resolution 466/2012)
 
 5. [Obesity Prediction — 100% Recall](https://github.com/marcelosilva2604/early-obesity-prediction)
    - Full pipeline: filtering, variance, correlation, feature engineering
@@ -43,6 +42,7 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
    - 89% accuracy / 95% AUC
    - Based on ENANI-2019 with 1,960 infants under 6 months
    - Under peer review
+   - - Approved by Ethics Committee (CNS Resolution 466/2012)
 
 ---
 
