@@ -15,7 +15,7 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
    - Prevents fatal dehydration/overload in neonatal ICU
    - Mobile-first, security-tested, deployed in real hospital settings
 
-2. [NeoFax React App](https://github.com/marcelosilva2604/neofax)
+2. [NeoFax React App](https://marcelosilva2604.github.io/neofax/)
    - Antibiotic dosing assistant to prevent organ failure or underdosing
    - Built with React + TypeScript, live on GitHub Pages
 
