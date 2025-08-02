@@ -98,14 +98,14 @@ clinical_credentials:
   nicu_experience: "12+ years"
   life_death_decisions: "daily"
   patient_safety: "zero_tolerance_errors"
-  regulatory_knowledge: "ethics_committees_fda_approval"
+  regulatory_knowledge: "ethics_committees_brazilian_ethics_committee_approval"
 
 ml_achievements:
   peer_review_accuracy: "89%"
   auc_score: "95%"
   obesity_recall: "100%"
-  research_papers: "3_in_pipeline"
-  sample_sizes: "8236_children"
+  research_papers: "4_in_pipeline"
+  sample_sizes: "15000_children"
   algorithms: [kmeans, dbscan, hierarchical, pycaret]
   frameworks: [scikit_learn, tensorflow, keras, django]
 
