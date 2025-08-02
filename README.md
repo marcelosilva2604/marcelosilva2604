@@ -77,12 +77,9 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
 ---
 
 ## 🛠️ TIER 5: UTILITIES & INFRASTRUCTURE
-
 ### Reusable Tools & Systems
-
 12. [MyLibs](https://github.com/marcelosilva2604/mylibs)
     - Extended pandas functions for clinical stats
-
 13. [Neofax App](https://github.com/marcelosilva2604/aplicativo-neofax)
 14. [Patient Manager](https://github.com/marcelosilva2604/sistema_pacientes)
 15. [Neonatal Care Protocols](https://github.com/marcelosilva2604/Neonatal-Care)
@@ -90,16 +87,13 @@ Most doctors barely use Excel. Most ML engineers never touched a patient.
 ---
 
 ## 🎯 THE UNPRECEDENTED COMBINATION
-
 ### Clinical Expertise Meeting ML Mastery
-
 ```yaml
 clinical_credentials:
   nicu_experience: "12+ years"
   life_death_decisions: "daily"
   patient_safety: "zero_tolerance_errors"
   regulatory_knowledge: "ethics_committees_brazilian_ethics_committee_approval"
-
 ml_achievements:
   peer_review_accuracy: "89%"
   auc_score: "95%"
@@ -108,18 +102,17 @@ ml_achievements:
   sample_sizes: "15000_children"
   algorithms: [kmeans, dbscan, hierarchical, pycaret]
   frameworks: [scikit_learn, tensorflow, keras, django]
-
 production_systems:
   live_deployments: 3
   github_pages: "zero_cost_scaling"
   users: "practicing_neonatologists"
   impact: "preventing_patient_deaths"
+```
 
 ---
 
 ## 🔥 Final Note
-
-I’m a clinician who chose to learn machine learning not out of curiosity, but necessity.  
+I'm a clinician who chose to learn machine learning not out of curiosity, but necessity.  
 After over a decade making critical decisions in NICUs, I now build tools that aim to reduce errors, improve care, and scale life-saving decisions with code.
 
 If you're building something at the intersection of healthcare and AI — let's connect.
