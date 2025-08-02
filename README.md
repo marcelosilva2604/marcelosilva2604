@@ -114,3 +114,12 @@ production_systems:
   github_pages: "zero_cost_scaling"
   users: "practicing_neonatologists"
   impact: "preventing_patient_deaths"
+
+---
+
+## 🔥 Final Note
+
+I’m a clinician who chose to learn machine learning not out of curiosity, but necessity.  
+After over a decade making critical decisions in NICUs, I now build tools that aim to reduce errors, improve care, and scale life-saving decisions with code.
+
+If you're building something at the intersection of healthcare and AI — let's connect.
