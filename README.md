@@ -61,8 +61,8 @@ Data:            Pandas, NumPy, large-scale health datasets (ENANI, SINASC, SIM)
 ## 👨‍⚕️ Clinical Background
 
 - **Chief of Pediatrics** — Santa Casa de Piracicaba (70 physicians across 6 sectors)
-- **Neonatologist** — Hospital Israelita Albert Einstein, Hospital dos Fornecedores de Cana
-- **Residency Instructor** — Teaching at three medical residency programs
+- **Neonatologist** — Santa Casa de Piracicaba, Hospital dos Fornecedores de Cana
+- **Residency Instructor** — Teaching at three medical residency programs(Santa Casa de Piracicaba, Hospital dos Fornecedores de Cana, HIAE)
 - **Interest in population health** since medical school, now applied through ML on national datasets
 
 ---
@@ -71,7 +71,7 @@ Data:            Pandas, NumPy, large-scale health datasets (ENANI, SINASC, SIM)
 
 - Email: marcelo_carvalhosilva@hotmail.com
 - Location: Piracicaba, São Paulo, Brazil
-- LinkedIn: [your-linkedin]
+- LinkedIn: https://www.linkedin.com/in/marcelo-carvalho-e-silva-761305377/
 
 ---
 
