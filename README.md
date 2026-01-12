@@ -1,118 +1,78 @@
-# 🚀 The Clinical AI Prodigy: From NICU to Machine Learning Research
+# Marcelo Carvalho e Silva, MD
 
-## Who Does This? A Neonatologist Building State-of-the-Art ML Models
+## Physician-Developer: Bridging Neonatal Medicine and Machine Learning
 
-Most doctors barely use Excel. Most ML engineers never touched a patient.  
-**I'm the rare intersection:** 12+ years NICU experience + research-grade ML expertise.
-
----
-
-## 🧠 TIER 1: PRODUCTION CLINICAL AI SYSTEMS
-
-### Life-Critical Automation (Zero-Error Tolerance)
-
-1. [Fluid Balance Calculator — LIVE](https://marcelosilva2604.github.io/calculadora-santacasapiracicaba/)
-   - Prevents fatal dehydration/overload in neonatal ICU
-   - Mobile-first, security-tested, deployed in real hospital settings
-
-2. [NeoFax React App](https://marcelosilva2604.github.io/neofax/)
-   - Antibiotic dosing assistant to prevent organ failure or underdosing
-   - Built with React + TypeScript, live on GitHub Pages
-
-3. [Neonatal Screenings Automation](https://marcelosilva2604.github.io/triagens-neonatais/)
-   - Prevents missed genetic/metabolic screening based on GA/weight
-   - Mission-critical logic for timing-sensitive triage
+Neonatologist with 12+ years of NICU experience, building clinical AI systems and conducting ML research in pediatric health. Currently developing a doctoral project at USP focused on AI-driven nutritional optimization in neonatal care.
 
 ---
 
-## 🔬 TIER 2: RESEARCH-GRADE MACHINE LEARNING
+## 🏥 Clinical AI Systems in Production
 
-### Peer-Reviewed ML Research (PhD-Level Work)
+Tools deployed in real hospital settings:
 
-4. [Clustering Enani (Private)](https://github.com/marcelosilva2604/Clustering-Enani)
-   - 8,236 Brazilian children analyzed for nutrition risk
-   - Used k-means, DBSCAN, hierarchical clustering
-   - 3 JCR-level papers in pipeline (Public Health Nutrition, CMB)
+**Fluid Balance Calculator** — Neonatal ICU hydration management system (Python, Tkinter)
 
-5. [Obesity Prediction — 100% Recall](https://github.com/marcelosilva2604/early-obesity-prediction)
-   - Full pipeline: filtering, variance, correlation, feature engineering
-   - Zero false negatives for obesity risk
+**NeoFax React App** — Antibiotic dosing assistant for neonatal care (React, TypeScript) — [Live Demo](https://github.com/marcelosilva2604/neofax)
 
-6. [Breastfeeding ML Classifier](https://github.com/marcelosilva2604/predicao-amamentacao)
-   - 89% accuracy / 95% AUC
-   - Based on ENANI-2019 with 1,960 infants under 6 months
-   - Under peer review
-   - - Approved by Ethics Committee (CNS Resolution 466/2012)
+**Neonatal Screening Automation** — Timing-sensitive genetic/metabolic screening based on gestational age and weight (Python)
 
 ---
 
-## ⚙️ TIER 3: ADVANCED ML ENGINEERING
+## 🔬 Research & Publications
 
-### Production-Ready ML Pipelines
+**Published:**
+- Carvalho e Silva, M. et al. (2025). *Machine Learning Identification of Factors Associated with Exclusive Breastfeeding in Brazilian Infants.* International Journal of Medical Informatics. [Accepted]
 
-7. [Complete ML Pipeline](https://github.com/marcelosilva2604/projectOne2)
-   - From feature cleaning to train/test with PyCaret and manual stats
+**Ongoing Research (ENANI-2019 National Dataset):**
+- Clustering analysis of nutritional patterns in 8,236 Brazilian children (k-means, DBSCAN, hierarchical)
+- Obesity risk prediction model with optimized recall
+- Predictors of multivitamin deficiencies in early childhood
 
-8. [Obesity Clustering](https://github.com/marcelosilva2604/clustering0-4)
-   - 10 groups detected with clear public health implications
-
-9. [Hands-On ML Practice](https://github.com/marcelosilva2604/HandsOnMLScikitLearnKerasTensorflow)
-   - CNNs, RNNs, GANs, Transformers
-   - MLflow + Weights & Biases integration
-
----
-
-## 🏗️ TIER 4: FULL-STACK CLINICAL APPLICATIONS
-
-### Medical Copilot Development
-
-10. [MedCopilot (Private)](https://github.com/marcelosilva2604/MedCopilot)
-    - Django + Vite + Tailwind CSS
-    - Real-time clinical assistant
-
-11. [DSHealth: AI-Generated Slides](https://github.com/marcelosilva2604/DSHealth)
-    - Medical education automation (slides from PDFs)
-    - OpenAI integration
+**Doctoral Project (in progress):**
+- AI system for nutritional therapy optimization in NICUs
+- Focus on LLM-based clinical decision support
+- USP São Paulo (advisor confirmed, ethics approval in progress)
 
 ---
 
-## 🛠️ TIER 5: UTILITIES & INFRASTRUCTURE
-### Reusable Tools & Systems
-12. [MyLibs](https://github.com/marcelosilva2604/mylibs)
-    - Extended pandas functions for clinical stats
-13. [Neofax App](https://github.com/marcelosilva2604/aplicativo-neofax)
-14. [Patient Manager](https://github.com/marcelosilva2604/sistema_pacientes)
-15. [Neonatal Care Protocols](https://github.com/marcelosilva2604/Neonatal-Care)
+## 🤖 Generative AI & LLM Projects
+
+**MedCopilot** — Real-time clinical assistant (Django, Vite, Tailwind CSS, LangChain)
+
+**Forest Oak** — LLM-based system for neonatal nutrition decision support (RAG, agents)
+
+**DSHealth** — Automated medical education slide generation from PDFs (OpenAI API)
 
 ---
 
-## 🎯 THE UNPRECEDENTED COMBINATION
-### Clinical Expertise Meeting ML Mastery
-```yaml
-clinical_credentials:
-  nicu_experience: "12+ years"
-  life_death_decisions: "daily"
-  patient_safety: "zero_tolerance_errors"
-  regulatory_knowledge: "ethics_committees_brazilian_ethics_committee_approval"
-ml_achievements:
-  peer_review_accuracy: "89%"
-  auc_score: "95%"
-  obesity_recall: "100%"
-  research_papers: "4_in_pipeline"
-  sample_sizes: "15000_children"
-  algorithms: [kmeans, dbscan, hierarchical, pycaret]
-  frameworks: [scikit_learn, tensorflow, keras, django]
-production_systems:
-  live_deployments: 3
-  github_pages: "zero_cost_scaling"
-  users: "practicing_neonatologists"
-  impact: "preventing_patient_deaths"
+## 🛠️ Technical Stack
+
+```
+Languages:       Python, JavaScript/TypeScript, Swift, SQL
+ML/AI:           Scikit-Learn, TensorFlow, PyCaret, LangChain
+Tracking:        MLflow, Weights & Biases
+Backend:         Django, FastAPI
+Frontend:        React, Vite, Tailwind CSS
+Data:            Pandas, NumPy, large-scale health datasets (ENANI, SINASC, SIM)
 ```
 
 ---
 
-## 🔥 Final Note
-I'm a clinician who chose to learn machine learning not out of curiosity, but necessity.  
-After over a decade making critical decisions in NICUs, I now build tools that aim to reduce errors, improve care, and scale life-saving decisions with code.
+## 👨‍⚕️ Clinical Background
 
-If you're building something at the intersection of healthcare and AI — let's connect.
+- **Chief of Pediatrics** — Santa Casa de Piracicaba (70 physicians across 6 sectors)
+- **Neonatologist** — Hospital Israelita Albert Einstein, Hospital dos Fornecedores de Cana
+- **Residency Instructor** — Teaching at three medical residency programs
+- **Interest in population health** since medical school, now applied through ML on national datasets
+
+---
+
+## 📫 Contact
+
+- Email: marcelo_carvalhosilva@hotmail.com
+- Location: Piracicaba, São Paulo, Brazil
+- LinkedIn: [your-linkedin]
+
+---
+
+*Building tools at the intersection of clinical medicine and artificial intelligence.*
